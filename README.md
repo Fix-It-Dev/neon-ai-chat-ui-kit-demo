@@ -1,59 +1,86 @@
 # Neon AI Chat UI Kit — Flutter Demo
 
-This is a **runnable demo app** for the commercial **Neon AI Chat UI Kit** for Flutter.
+**This is a live demo app for the commercial Neon AI Chat UI Kit.**
 
-It allows you to:
-- View real screenshots of the UI
-- Experience the neon theme
-- Open the full product on Gumroad
+This demo shows only static UI and screenshots — it does *not* include the real production code.
 
-⚠ This repository does NOT include the real source code.
-It only contains a demo viewer.
+👉 Buy the full UI kit here:  
+https://fixitdev.gumroad.com/l/neon-ai-chat-ui
 
 ---
 
-## What is Neon AI Chat UI Kit?
+## What’s Included
 
-A production-ready Flutter UI system for:
-- AI chat apps
-- Multi-bot systems
-- OpenAI / Gemini / Custom bots
-- Neon cyberpunk style
-- Glassmorphism UI
-- Bot management screens
-- Animated chat UI
+This standalone demo includes:
+
+✅ Welcome screen with BUY link  
+✅ Screenshot slides of key UI screens  
+✅ Mock navigation and visual flow  
+✅ Example assets  
+❌ No real AI logic  
+❌ No engine switching  
+❌ No chat controllers
+❌ No Riverpod providers
+
+The goal is to help you preview the UI before buying.
 
 ---
 
-## Run the Demo
+## Screenshots
+
+Use left/right tap or arrow buttons in the demo to browse screenshots.
+
+The slides include:
+- Bot list screen
+- Bot switching
+- Bot management
+- Create bot
+- Chat UI (loading + streamed replies)
+
+---
+
+## How to Run
+
+1. Clone this repo:
 
 ```bash
-git clone https://github.com/FixItDev/neon-ai-chat-ui-demo.git
-cd neon-ai-chat-ui-demo
+git clone https://github.com/Fix-It-Dev/Neon-Ai-Cha-UI-Kit-Demo.git
+```
+Change directory:
+
+```bash
+cd Neon-Ai-Cha-UI-Kit-Demo
+```
+
+Get dependencies:
+
+```bash
 flutter pub get
+```
+
+Run app:
+
+```bash
 flutter run
 ```
 
-## Buy the Full UI Kit
+Get the Full UI Kit
+This demo only previews the UI.
 
-# Get full access including:
+To build real AI chat apps using OpenAI, Gemini, or any custom engine, purchase the full UI Kit:
 
-All Flutter widgets
+👉 https://fixitdev.gumroad.com/l/neon-ai-chat-ui
 
-AI chat logic
+Includes:
 
-Bot systems
+1. Real widgets
 
-Themes
+2. AI engine wiring
 
-Documentation
+3. Bot controllers
 
-Commercial license
+4. Riverpod architecture
 
-👉 Buy here:
-https://fixitdev.gumroad.com/l/neon-ai-chat-ui
+5. Commercial license
 
-License
-
-This demo is licensed for viewing and evaluation only.
-See LICENSE-DEMO.txt for full terms.
+6. Documentation
