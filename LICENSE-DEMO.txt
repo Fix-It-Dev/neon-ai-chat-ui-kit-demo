@@ -1,0 +1,26 @@
+Neon AI Chat UI Kit — Demo Repository License
+
+Copyright (c) 2026 FixItDev
+
+This repository contains ONLY a demo application with screenshots and marketing UI
+for the commercial product “Neon AI Chat UI Kit”.
+
+No source code, widgets, themes, layouts, or business logic from the commercial
+Neon AI Chat UI Kit are included in this repository.
+
+You are allowed to:
+- Clone this repository
+- Run the demo app
+- View the screenshots
+- Share the repository link
+
+You are NOT allowed to:
+- Use this demo to build production applications
+- Recreate or reverse-engineer the Neon AI Chat UI Kit
+- Sell or redistribute this demo as a product
+- Use the screenshots or branding for commercial purposes
+
+To obtain the full source code, commercial license, and production-ready UI:
+Visit: https://fixitdev.gumroad.com/l/neon-ai-chat-ui
+
+This demo is provided for evaluation and marketing purposes only.
