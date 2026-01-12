@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="./assets/images/kit_cover_image.png" alt="Banner">
+</p>
+
+[![Buy on Gumroad](https://img.shields.io/badge/Buy%20Full%20Version-%2439-orange?logo=gumroad)](https://fixitdev.gumroad.com/l/neon-ai-chat-ui)
+
+
 # Neon AI Chat UI Kit — Flutter Demo
 
 **This is a live demo app for the commercial Neon AI Chat UI Kit.**
@@ -36,6 +43,12 @@ The slides include:
 - Bot management
 - Create bot
 - Chat UI (loading + streamed replies)
+
+## Preview Demo
+
+<p align="center">
+  <img src="./assets/images/neon_ai_chat_ui_feature6.gif" width="300" alt="Demo Preview">
+</p>
 
 ---
 
